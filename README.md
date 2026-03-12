@@ -1,3 +1,9 @@
+# KoivuLabs: Ingestion Tools
+**Purpose**: Superior document parsing and cleaning.
+**Dependencies**: Docling, Python.
+**Integration Points**:
+- **Workflow**: Automated pipeline: PDF -> Text -> Chunks -> `vector-databases`.
+
 <p align="center">
   <a href="https://github.com/docling-project/docling">
     <img loading="lazy" alt="Docling" src="https://github.com/docling-project/docling/raw/main/docs/assets/docling_processing.png" width="100%"/>
